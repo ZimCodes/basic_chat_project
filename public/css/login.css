@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top:25vh;
+    flex-flow: column;
+}
+div{
+    text-align:center;
+    font-size: 24px;
+}
+input{
+    margin:30px auto;
+    width:200px;
+    height:20px;
+}
+button{
+    margin:0 auto;
+    width:100px;
+    height:25px;
+}
